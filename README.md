@@ -32,7 +32,7 @@
 
 ## About my Github:
 
-   [![GitHub](https://github-readme-stats.vercel.app/api?username=OtavioNog&count_private=true&show_icons=true&&theme=github_dark&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)  
+   [![GitHub](https://github-readme-stats.vercel.app/api?username=OtavioNog&count_private=true&show_icons=true&&theme=github_dark&hide=contribs,issues)](https://github.com/OtavioNog)  
 
 ## Send me a message:
 
