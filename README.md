@@ -32,7 +32,10 @@
 
 ## About my Github:
 
-   [![GitHub](https://github-readme-stats.vercel.app/api?username=OtavioNog&count_private=true&show_icons=true&&theme=github_dark&hide=contribs,issues)](https://github.com/OtavioNog)  
+   [![GitHubStats](https://github-readme-stats.vercel.app/api?username=OtavioNog&count_private=true&show_icons=true&&theme=github_dark&hide=contribs,issues)](https://github.com/OtavioNog)
+   
+   [![GitHubLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoferreira22&layout=compact&langs_count=7&theme=react)](https://github.com/OtavioNog)
+   
 
 ## Send me a message:
 
