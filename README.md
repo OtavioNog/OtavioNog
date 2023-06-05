@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/badge/ReactJs-222?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=222" />
 
 <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff&labelColor=FF2D20" />
+ 
+ <img src="https://img.shields.io/badge/Ts-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" />
 
 <img src="https://img.shields.io/badge/node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=fff&labelColor=3C873A" />
 </div>
