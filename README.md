@@ -1,12 +1,13 @@
  ## Know about:
 
 <div>
-<img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
-<img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" />
+<img src="https://img.shields.io/badge/php-4F5B93?style=for-the-badge&logo=php&logoColor=fff&labelColor=4F5B93" />
 
+<img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff&labelColor=FF2D20" />
+ 
 <img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
 
-<img src="https://img.shields.io/badge/php-4F5B93?style=for-the-badge&logo=php&logoColor=fff&labelColor=4F5B93" />
+<img src="https://img.shields.io/badge/node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=fff&labelColor=3C873A" />
 
 <img src="https://img.shields.io/badge/mysql-F29221?style=for-the-badge&logo=mysql&logoColor=fff&labelColor=F29221" />
 
@@ -14,21 +15,19 @@
 
 ## Studying about:
 
-<img src="https://img.shields.io/badge/ReactJs-222?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=222" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-<img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff&labelColor=FF2D20" />
- 
- <img src="https://img.shields.io/badge/Ts-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 
-<img src="https://img.shields.io/badge/node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=fff&labelColor=3C873A" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 <br>
 
 ## About Me:
 
-- 🎯 Focused on becoming <strong><em>full stack</em></strong>.
-- 📚 Currently discovering laravel and its strands.
+- 🎯 Active fullstack developer for over 2 years.
+- 📚 Currently discovering Java and its strands.
 
 <br>
 
